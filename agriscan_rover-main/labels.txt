@@ -1,0 +1,5 @@
+0 path
+1 left
+2 right
+3 plant
+4 block
